@@ -1,1 +1,1 @@
-# Nancy_Lambdas_and_Streams-master
+# Nancy_Lambdas_and_Streams
